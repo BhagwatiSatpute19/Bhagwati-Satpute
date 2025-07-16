@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>🌸  📚</strong>
+  <strong></strong>
 </p>
 
 ---
