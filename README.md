@@ -47,7 +47,7 @@ Currently working on **BrainBloom**, a productivity platform for engineering stu
 
 📧 Email: **bhagwatisatpute19@gmail.com**  
 🌐 [LinkedIn](https://linkedin.com/in/bhagwatisatpute) 
-🧠 Portfolio (coming soon...)
+🧠 http://brainbloom.rf.gd/?i=1
 
 ---
 
